@@ -29,7 +29,7 @@ Endpoints:
 GET /gg/getcodes
 ```  
 Получение гифки
-(пример ответа: https://api.giphy.com/v1/gifs/random?api_key=f0d99abad6904325afb8d7bf93b6f235&tag=broke):
+(пример ответа: https://api.giphy.com/v1/gifs/random?api_key=614bPxmcMWVQONFEduhxjYESvxw2NBtK&tag=broke):
 ```
 GET /gg/getgif/{Char Code}
 ```  
